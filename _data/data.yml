@@ -62,7 +62,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: MSc in Computer Engineering
         university: Halic University
         time: 2020 - 2022
         details: |
@@ -73,9 +73,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MSc in Mechanical Engineering
+        university: Trakya University
+        time: 2013 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
