@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Onur KIZILARSLAN
-    tagline: Full Stack Developer
+    tagline: Senior Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,30 +16,27 @@ sidebar:
     phone: +90 546 417 86 77
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: https://imonur.github.io #do not add http://
+    linkedin: https://www.linkedin.com/in/onur-kizilarslan/
     xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    github: imonur
+    telegram: facadium # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Turkish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: B1
 
     interests:
       title: Interests
